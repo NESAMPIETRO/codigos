@@ -1,18 +1,18 @@
 # estruturas condicionais 
 
-idade = 18
+"""idade = 21
 if idade >= 18:
     print("Voce  é maior de idade")
 else: 
-    print("Voce é menor de idade")
+    print("Voce é menor de idade")"""
 
-"""media = float(input("Informe a média do esudante: " ))
+media = float(input("Informe a média do esudante: " ))
 if media >= 7:
     print("Aprovado")
 elif media >= 5: 
     print("Recuperação")
 else: 
-    print("Reprovado")"""
+    print("Reprovado")
 
 media = 7
 presença = 70

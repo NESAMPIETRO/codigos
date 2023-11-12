@@ -22,5 +22,5 @@ print( type(estudando))
 
 # obtendo dados e salvando
 
-linguagem = input("qual e a liguagem ue vc esta usando")
+linguagem = input("qual e a liguagem ue vc esta usando ")
 print("a linguagem que vc esta usando é",linguagem )
